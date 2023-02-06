@@ -12,3 +12,4 @@ Here in this repository there is a recreation of the Windows XP Horror Edition B
 
 My channel:
 https://www.youtube.com/@thiagotutoriais1021
+OSK
