@@ -49,5 +49,3 @@ echo ^</html^>
 start "" /wait "bsodwinxphorroredition.hta"
 
 del /f /q "bsodwinxphorroredition.hta" > nul
-
-kk
